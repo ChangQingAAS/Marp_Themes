@@ -24,6 +24,7 @@ css/scss in dir 'themes'  from:
 ## 目录结构
 
 marp-themes
+
 ├─.vscode # 样式文件的导入
 
 ├─node_modules # 一些nodejs依赖
