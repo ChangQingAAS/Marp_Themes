@@ -1,5 +1,6 @@
 ## 总结了一些marp的主题
 
+
 ## 鸣谢
 
 css/scss in dir 'themes'  from:
@@ -12,11 +13,13 @@ css/scss in dir 'themes'  from:
 - [mastern2k3/marpit-nord-theme: a Marp / Marpit slides theme based on the Nord color palette](https://github.com/mastern2k3/marpit-nord-theme)
 - [2uu/marp-themes](https://github.com/2uu/marp-themes/)
 
-Thanks to their excellent work!
+### Thanks to their excellent work!
+
 
 ## 使用
 
 关于marp的使用，可以参考我写的 [教程](https://changqingaas.github.io/%E6%95%99%E7%A8%8B/%E7%94%A8Markdown%E5%88%B6%E4%BD%9C%E5%B9%BB%E7%81%AF%E7%89%87-Marp/)
+
 
 ## 目录结构
 
@@ -30,6 +33,7 @@ marp-themes
 ├─tju-images # 一些tju的ppt背景图,[使用方法](https://changqingaas.github.io/%E6%95%99%E7%A8%8B/%E7%94%A8Markdown%E5%88%B6%E4%BD%9C%E5%B9%BB%E7%81%AF%E7%89%87-Marp/#6-3-%E5%B9%BB%E7%81%AF%E7%89%87%E8%83%8C%E6%99%AF)
 
 └─package-lock.json # 包管理文件
+
 
 ## to solve
 
