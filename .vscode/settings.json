@@ -1,0 +1,24 @@
+{
+    "markdown.marp.themes":[
+        "./themes/tapioca24.css",
+        "./themes/dracula.css",
+        "./themes/colors.css",
+        "./themes/github.css",
+        "./themes/haskell.css",
+        "./themes/olive.css",
+        "./themes/blue-green.css",
+        "./themes/cool-blue.css",
+        "./themes/dark-blue.css",
+        "./themes/dark-gray.css",
+        "./themes/kawaii-pink.css",
+        "./themes/kawaii-pop.css", 
+        "./themes/simple.css", 
+        "./themes/A4.css", 
+        "./themes/nord.css", 
+
+        "./themes/colors.scss",
+        "./themes/github.scss",
+        "./themes/haskell.scss",
+        "./themes/olive.scss",
+    ]
+}
