@@ -22,9 +22,13 @@ Thanks to their excellent work!
 
 marp-themes
 ├─.vscode # 样式文件的导入
+
 ├─node_modules # 一些nodejs依赖
+
 ├─themes # 存放样式文件
+
 ├─tju-images # 一些tju的ppt背景图,[使用方法](https://changqingaas.github.io/%E6%95%99%E7%A8%8B/%E7%94%A8Markdown%E5%88%B6%E4%BD%9C%E5%B9%BB%E7%81%AF%E7%89%87-Marp/#6-3-%E5%B9%BB%E7%81%AF%E7%89%87%E8%83%8C%E6%99%AF)
+
 └─package-lock.json # 包管理文件
 
 ## to solve
