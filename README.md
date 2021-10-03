@@ -18,7 +18,7 @@ css/scss in dir 'themes'  from:
 
 ## 使用
 
-关于marp的使用，可以参考我写的 [教程](https://changqingaas.github.io/%E6%95%99%E7%A8%8B/%E7%94%A8Markdown%E5%88%B6%E4%BD%9C%E5%B9%BB%E7%81%AF%E7%89%87-Marp/)
+关于marp的使用，可以参考我写的 [教程](https://changqingaas.github.io/%E6%95%99%E7%A8%8B/marp/%E7%94%A8Markdown%E5%88%B6%E4%BD%9C%E5%B9%BB%E7%81%AF%E7%89%87-Marp/)
 
 
 ## 目录结构
@@ -31,12 +31,12 @@ marp-themes
 
 ├─themes # 存放样式文件
 
-├─tju-images # 一些tju的ppt背景图,[使用方法](https://changqingaas.github.io/%E6%95%99%E7%A8%8B/%E7%94%A8Markdown%E5%88%B6%E4%BD%9C%E5%B9%BB%E7%81%AF%E7%89%87-Marp/#6-3-%E5%B9%BB%E7%81%AF%E7%89%87%E8%83%8C%E6%99%AF)
+├─tju-images # 一些tju的ppt背景图,[使用方法](https://changqingaas.github.io/%E6%95%99%E7%A8%8B/marp/%E7%94%A8Markdown%E5%88%B6%E4%BD%9C%E5%B9%BB%E7%81%AF%E7%89%87-Marp/)
 
 └─package-lock.json # 包管理文件
 
 
 ## to solve
 
-我在探索自己做一个marp-for-tju主题的过程中，遇到了一些[问题](https://changqingaas.github.io/碎碎念/关于marp-theme-for-tju的探索/)，如果你有想法，请联系我，谢谢
+我在探索自己做一个marp-for-tju主题的过程中，遇到了一些[问题](https://changqingaas.github.io/%E7%A2%8E%E7%A2%8E%E5%BF%B5/marp/%E5%85%B3%E4%BA%8Emarp-theme-for-tju%E7%9A%84%E6%8E%A2%E7%B4%A2/)，如果你有想法，请联系我，谢谢
 
